@@ -11,7 +11,12 @@ title = "Awesome Identity for Hugo"
   title = "Data Scientist"
   bio = """I am a recent graduate from Dalhousie University with a Master in Computer science. My research interests lie in leveraging Visualization to explore insights from data and use this knowledge to build intelligent systems to help make an informed decision."""
 
+## Contacts Configurations
+[params.contacts]
+  email = "mohamed.muzamilh@dal.ca"
+  github = "https://github.com/mohd-muzamil"
+  linkedin = "https://www.linkedin.com/in/mohd11/"
+  
 ## Footer Configurations
 [params.footer]
-  copyright = "© 2019-2020 Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
-  poweredBy = false
+  poweredBy = true
