@@ -15,7 +15,7 @@ title = "Awesome Identity for Hugo"
 [params.contacts]
   email = "mohamed.muzamilh@dal.ca"
   github = "mohd-muzamil"
-  linkedin = "mohd11/"
+  linkedin = "mohd11"
   
 ## Footer Configurations
 [params.footer]
