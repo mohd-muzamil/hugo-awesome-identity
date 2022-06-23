@@ -1,0 +1,22 @@
+theme = "awesome-identity"
+baseURL = "https://mohamed.muzamilh.com"
+title = "About me"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/portrait-default.png"
+  firstname = "Mohamed"
+  lastname = "Muzamil"
+  title = "Data Scientist"
+  bio = """I am a recent graduate from Dalhousie University with a Master in Computer science. My research interests lie in leveraging Visualization to explore insights from data and use this knowledge to build intelligent systems to help make an informed decision."""
+
+## Contacts Configurations
+[params.contacts]
+  email = "mohamed.muzamilh@dal.ca"
+  github = "https://github.com/mohd-muzamil"
+  linkedin = "https://www.linkedin.com/in/mohd11/"
+  
+## Footer Configurations
+[params.footer]
+  poweredBy = true
