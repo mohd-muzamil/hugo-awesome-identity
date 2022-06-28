@@ -8,7 +8,7 @@ title = "Awesome Identity for Hugo"
   portrait = "/images/portrait-default.png"
   firstname = "Mohamed"
   lastname = "Muzamil"
-  title = "Data Scientist"
+  title = "Researcher - Machine Learning and Data Visualization"
   bio = """I am a recent graduate from Dalhousie University with a Master in Computer science. My research interests lie in leveraging Visualization to explore insights from data and use this knowledge to build intelligent systems to help make an informed decision."""
 
 ## Contacts Configurations
